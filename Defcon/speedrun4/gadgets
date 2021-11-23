@@ -1,0 +1,5 @@
+0x0000000000400686 : pop rdi ; ret
+0x0000000000410a93 : pop rsi ; ret
+0x000000000044a155 : pop rdx ; ret
+0x0000000000415f04 : pop rax ; ret
+0x000000000048d301 : mov qword ptr [rax], rdx ; ret
